@@ -1,4 +1,4 @@
-# awesome.exp(5)
+# awesome-power-of-5
 > A curated list of awesome lists of awesome lists of awesome lists.
 
 - [awesome-awesome-awesome-awesome](https://github.com/sindresorhus/awesome-awesome-awesome-awesome)
