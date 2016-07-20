@@ -7,3 +7,7 @@
 ### Too much?
 
 [awesome](https://github.com/sindresorhus/awesome) is what you want.
+
+### Too little?
+
+[The definitive list of lists (of lists) curated on GitHub](https://github.com/jnv/lists) is what you want.
